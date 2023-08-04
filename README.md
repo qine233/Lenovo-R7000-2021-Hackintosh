@@ -15,7 +15,7 @@
 | HDMI          |                     | 不可用（未测，但理论不可用） |
 | 摄像头    |                     | 可用 |
 
-
+ ![.....](https://img.shields.io/github/downloads/qine233/Lenovo-R7000-2021-Hackintosh/total.svg?style=flat-square)
 1. 建议关闭安全启动
 2. 默认关闭了核显驱动nootedred，在安装完系统后打开
 3. 使用本项目内容安装系统，所出现问题一概自行承担
