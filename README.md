@@ -10,11 +10,11 @@
 | 独显         | NVIDIA RTX 3050 | 不可用                 |
 | 网卡         | 螃蟹8852AE/MTK等              | 不可用(建议更换intel网卡，例如ax200，210或者博通更佳) |
 | 固态         | SN730 | 可用                 |
-| 键盘、触控板 |                     | 键盘可用/触控板不可用                 |
-| 声卡、音频   | Realtek ALC287      | 可用 ，麦克风按照发布的说明注入正确节点的驱动可正常驱动                |
+| 键盘、触控板 |                     | 键盘可用/触控板可用                 |
+| 声卡、音频   | Realtek ALC287      | 可用              |
 | 内存         | 三星16G x2          | 可用                 |
 | USB          |                     | 全部可用 |
-| HDMI          |                     | 不可用（未测，但理论不可用） |
+| HDMI          |                     | 不可用 |
 | 摄像头    |                     | 可用 |
 
  ![.....](https://img.shields.io/github/downloads/qine233/Lenovo-R7000-2021-Hackintosh/total.svg?style=flat-square)
